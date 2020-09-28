@@ -9,13 +9,19 @@
 ### How to run the application
 
 - Edit database configuration in database.py file
+
+- install all requirements to run the application
+
 ```sh
     pip install -r requirements.txt
 ```
+
 - To run the application 
+
 ```sh
     python main.py
 ```
+
 - To run unit tests
 
 ```sh
